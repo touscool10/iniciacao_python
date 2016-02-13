@@ -1,2 +1,4 @@
 # iniciacao_python
-Iniciacao em Python 
+
+## Repositorio de estudos em Python 
+
